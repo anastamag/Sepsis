@@ -1,0 +1,37 @@
+	Pathogen	Barcode
+1	Aspergillus fumigatus	TTCTC
+2	Candida albicans	TTGCT
+3	Candida dubliniensis	TTAGG
+4	Candida glabrata	TCTTG
+5	Citrobacter koseri	TCCGT
+6	Candida parapsilosis	TCGAC
+7	Candida tropicalis	TCACA
+8	Eschericia coli	TGTCC
+9	Enterococcus faecalis	TGCAG
+10	Enterococcus faecium	TGGTA
+11	Haemophilus influenzae	CTTCG
+12	Klebsiella oxytoca	CTCGA
+13	Klebsiella pneumoniae	CTAAC
+14	mec A (resistance gene)	CCTAT
+15	mec ALGA (resistance gene)	CGCTT
+16	Proteus mirabilis	CATTC
+17	Neisseria meningitidis	CAGCA
+18	Pseudomonas aeruginosa	CAAGT
+19	Streptococcus agalactiae	GTTGT
+20	Staphylococcus aureus	GTGTG
+21	Staphylococcus epidermidis	GCCTA
+22	Staphylococcus haemolyticus	GCAAG
+23	Staphylococcus lugdunensis	GGTAA
+24	Streptococcus mutans	GGATC
+25	Streptococcus pneumoniae	GACCT
+26	Streptococcus pyogenes	ATGGC
+27	Streptococcus salivarius	ACTGA
+28	Streptococcus sanguinis	ACGTT
+29	Staphylococcus saprophyticus	AGCCA
+30	Staphylococci ssp.	AACTG
+31	Streptococcus ssp.	TGCAC
+32	van A (resistance gene)	GTGCT
+33	NDM	ATCGC
+34	OXA-48	GTAGA
+35	KPC	GCATT
+36	VIM	TCCAT
